@@ -1,4 +1,4 @@
-# wine_variety
+# Wine Variety Categorization using Support Vector Machines
 
 In this project we have used the train.csv file to train our SVM model. We have used 'review-description' parameter for this purpose. We have preprocessed the descriptions using TFIDF and prepared the unigrams and bigrams for each of the 28 wine varieties and using these unigrams and bigrams we have trained the Support Vector Machine.
 
